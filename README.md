@@ -11,6 +11,7 @@ In processed data set based on the 3 classifiers which are
 1. Logistic Regression
 2. Random Forest
 3. Gradient Boosting
+
 I calculated the accuracy, precision,recall and F1 meaure.
 With the different classifiers I came up with the conclusion that Random Forest was the best to predict Heart Disease and Gradient Boosting was close to it based on Precision,Recall and F1 measure. I didn't consider the Accuracy while predicting Heart Disease becacuse of the Accuracy Paradox.
 
